@@ -1,0 +1,24 @@
+.App{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin: 20px;
+  padding: 20px;
+  border: solid black 1px;
+
+}
+
+#CounterContainer{
+  display: flex;
+  padding: 20px;
+  border: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: solid black 1px;
+  /* width: 20%; */
+}
+
+p{
+  justify-items: center;
+}
