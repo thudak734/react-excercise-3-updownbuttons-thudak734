@@ -8,11 +8,11 @@ function UpDownCounter() {
         <div id="UpDownCounter">
             <div id="CounterContainer">
                 <button id="up" onClick={() => setCount((count) => count + 1)}>
-                    up
+                    Up
                 </button>
                 <p>{count}</p>
                 <button id="down" onClick={() => setCount((count) => count - 1)}>
-                    down
+                    Down
                 </button>
             </div>
         </div>
